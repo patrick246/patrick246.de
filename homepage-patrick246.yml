@@ -9,6 +9,7 @@ services:
       labels:
         - "traefik.frontend.rule=Host:patrick246.de,www.patrick246.de"
         - "traefik.docker.network=traefik-net"
+        - "traefik.port=80"
 networks:
   traefik-net:
     external: true

@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/patrick246
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://patrick246.de
+  * I am patrick246 (https://keybase.io/patrick246) on keybase.
+  * I have a public key with fingerprint B018 8995 3013 495F 3906  14C0 66EF 28E5 A92D E9FE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "b01889953013495f390614c066ef28e5a92de9fe",
+            "host": "keybase.io",
+            "key_id": "66EF28E5A92DE9FE",
+            "uid": "12bae666d2d83f33d10a8f496e315319",
+            "username": "patrick246"
+        },
+        "merkle_root": {
+            "ctime": 1425850982,
+            "hash": "00372da88ec6b09b02097179314ab702f3514658292cea78d807733ddba3af19ca71961f01b930315c202c26285ac1e5d513acc5b491b513c9f67bd3d861dca8",
+            "seqno": 173992
+        },
+        "service": {
+            "hostname": "patrick246.de",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1425851073,
+    "expire_in": 157680000,
+    "prev": "7dd3b5b37d4530fe6ca7c154f3cf12f6d72a41426634a589139ccdcf9ba7b0fd",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (MingW32)
+
+owFlUn1QVFUUXzATIxWkBkYdxKUaPxDffR/3vQshOeNSDuFUgM445c577963vBb2
+bftWkAh1hKik5CMHAz8apNxQp41BDdGhFnNoAMvwa0bSVRHMSV1lhhCh7D3Hppzu
+X+fe87u/8/udc6qnTbKEhymh+YPNi2/8FdZzQ7LkTHQGSqyShoutKSVWOV8lLq8Z
+ucQCYk2xOkmxJOokWdUSXBomyW/rCY8wSdZC4tFVzWWgqGQ+mbeWJplw87OiuhzE
+4/aoJpdVooAgIMQxFGBYxCkMoiBgZQpCotAC4UREY4IUYlDmabr3sarWh5x2FRuv
+ENoyaMHGLUP0chvKsBm5dQ8TgJZEAiHENBYYhWEwoERBYREkDOAYgEygTjyPLLlF
+r0eVnTQLTcUFxOPMJ3aPpj20LXtVEwRYmhM4Cgm0oUnU80yPFMPTWBQEIkOJQhJF
+U4gHPGIAK0o8RSsMB1jICTSiZSLyAhYonje0YElkRAUgWeQBgkChgIQYyhAm0xQt
+05AWOFEGhMMcYERZ5iQWAcmIZaRAXsIMFiDAsigYJnTyjkszxPEMQnSpefcUqjIx
+dZuN+5+/ZGz21O3RvJqs5RupPK/XraeYtr3FbhPbUkQk+yMau6S6sDG4/04WGNDH
+WgIonkmykvVu1UPsqongeChQxjELkUKDk8eYkTiJ4TFrjFwh0HAuA45VGFkBtAIx
+T4uswQYhw4qcgACDZBnLCpJEXqIU/K9Ro/le0WFQ6qrDJXrXeYi19KPwOU9YwsIt
+T04ON1fX8tTUqH/2uX8syrJ7g3t60a6W/QF+SHFRNST9k6bh1LJqOCW9+OziGtHi
+HCgZn+pb+VVa02fhfTMHtvmuxr+iH3D8eExtLrr4eiiaXXGl/vvJ9Tnra+deDPT+
+rP0R/WBFbo1ze8/owQ8q9Sj7DN/7ayAJpuodnWWXGvcnpJ6M8238jQydqX/w6Z3h
+jEhv+zfH1jtvwgc7SwRb9bkTlZmdnfc2LwI7si50vJyY7mjY9vSCkfgdv7xQvoTu
+3Bt4rW5ya8yvw6e25jqOtyauid3aPa8u8ocyW2Pc8ML2e3U9XZcDoUkX6qdd+7x7
+abp/1hvBKa96h+7OtDiOnDirvBfS0+wVwYNV+zTLh4dKD7WfPhccXlUZKB/beWBP
+h7//+evOvp/GR22xVV8/1zbr5nXfcVQJVzdNHfUvPLJkxkTfu1UEB6+qbbFry8Z2
+Hy0735XRt27j8uZN9wsyTzKZTf5GfjAyHR9emXUrfrCr+kb3mRX7MvdULKaKRlrs
+0ydKW9K/wIvuDMmh0yX3X3rmz7yRS/7yOK539hxf4uxnE8aOpl47mjd+/m5axYbC
+uat72rcE5pdPbx13518aGF61pTm7NW17nvPWxzOvtDXEBLOzNl+1fxfsn9F+7HeN
+api4HZp3eHvusls5hWT35W/fjBivrdjUGxoYWXsq5q1dX+5rSIlYUNcxt/a+dtvV
+ts2aHb2Uz52IKHjRv/dv
+=UJAj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/patrick246
+
+==================================================================
